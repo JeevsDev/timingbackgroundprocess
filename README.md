@@ -1,16 +1,12 @@
 # timingbackgroundprocess
 
-A new Flutter project.
+A Flutter project that user timing in background to bring about changes in the front-end of the app. Here, in this project, timing is used to change the color of a container every 5 seconds.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this project and you're good to go!
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1696764571](https://github.com/JeevsDev/timingbackgroundprocess/assets/96291802/6c7e80be-fbb8-4d7e-8445-baa5d816c2ad)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
